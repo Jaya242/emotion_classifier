@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.vscode/
+.idea/
+checkpoints/
+data/
+*.pt
+*.pth
+*.h5
+*.npy
+runs/
+*.log
+.ipynb_checkpoints/
